@@ -1,0 +1,264 @@
+#page1{
+    font-family: sans-serif;
+    vertical-align: top;
+    background: url(https://i.ebayimg.com/images/g/T~AAAOSwqRdXMZEe/s-l300.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#page2{
+    font-family: sans-serif;
+    vertical-align: top;
+    background: url(https://i.ebayimg.com/images/g/T~AAAOSwqRdXMZEe/s-l300.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#page3{
+    font-family: sans-serif;
+    vertical-align: top;
+    background: url(https://i.ebayimg.com/images/g/T~AAAOSwqRdXMZEe/s-l300.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#page4{
+     font-family: sans-serif;
+     vertical-align: top;
+     background: url(https://i.ebayimg.com/images/g/T~AAAOSwqRdXMZEe/s-l300.jpg) no-repeat center center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+ }
+
+
+#pageHeader{
+    background: black;
+    font-size: 40pt;
+    font-family: "Times New Roman", monospace;
+    color: gold;
+    height: 200px;
+}
+#pageHeader2{
+    background: black;
+    font-size: 40pt;
+    font-family: "Times New Roman", monospace;
+    color: gold;
+    height: 200px;
+}
+#pageHeader3{
+    background: black;
+    font-size: 40pt;
+    font-family: "Times New Roman", monospace;
+    color: gold;
+    height: 200px;
+}
+#pageHeader4{
+    background: black;
+    font-size: 40pt;
+    font-family: "Times New Roman", monospace;
+    color: gold;
+    height: 200px;
+}
+
+h1{
+    position: absolute;
+    top: 15%;
+    left: -27%;
+}
+
+#startButton{
+    position: absolute;
+    top: 20%;
+    left: 24%;
+    height: 250px;
+    width: 500px;
+    background-color: darkslategray;
+    border: solid thick black;
+    color: gold;
+    font-size: 50pt;
+    font-family: "Times New Roman", monospace;
+}
+
+#guessMessage{
+    position: absolute;
+    top: 17%;
+    left: 27%;
+    font-size: 50pt;
+    font-family: "Times New Roman", monospace;
+    color: red;
+    font-weight: bold;
+}
+
+#lyricsOutput{
+    position: absolute;
+    top: 25%;
+    left: 5%;
+    text-align: center;
+    font-size: 40pt;
+    font-family: "Times New Roman", monospace;
+    color: red;
+    font-weight: bold;
+}
+
+#firstOption{
+    position: absolute;
+    top: 35%;
+    left: 25%;
+    height: 200px;
+    width: 450px;
+    background-color: darkslategray;
+    border: solid thick black;
+    color: gold;
+    font-size: 25pt;
+    font-family: "Times New Roman", monospace;
+}
+#secondOption{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    height: 200px;
+    width: 450px;
+    background-color: darkslategray;
+    border: solid thick black;
+    color: gold;
+    font-size: 25pt;
+    font-family: "Times New Roman", monospace;
+}
+#thirdOption{
+    position: absolute;
+    top: 65%;
+    left: 25%;
+    height: 200px;
+    width: 450px;
+    background-color: darkslategray;
+    border: solid thick black;
+    color: gold;
+    font-size: 25pt;
+    font-family: "Times New Roman", monospace;
+}
+#fourthOption{
+    position: absolute;
+    top: 80%;
+    left: 25%;
+    height: 200px;
+    width: 450px;
+    background-color: darkslategray;
+    border: solid thick black;
+    color: gold;
+    font-size: 25pt;
+    font-family: "Times New Roman", monospace;
+}
+
+#winMessage{
+    position: absolute;
+    top: 15%;
+    left: 12%;
+    font-size:40pt;
+    font-family: "Times New Roman", monospace;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+#loseMessage{
+    position: absolute;
+    top: 15%;
+    left: 19%;
+    font-size: 50pt;
+    font-family: "Times New Roman", monospace;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+#loseMessage2{
+    position: absolute;
+    top: 19%;
+    left: 16%;
+    font-size: 50pt;
+    font-family: "Times New Roman", monospace;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+#songName1{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    font-size: 50pt;
+    font-family: "Times New Roman", monospace;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+#songName2{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    font-size: 50pt;
+    font-family: "Times New Roman", monospace;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+#nextSong3{
+    position: absolute;
+    top: 51%;
+    left: 23%;
+    height: 300px;
+    width: 500px;
+    background-color: darkslategray;
+    border: solid thick black;
+    color: gold;
+    font-size: 50pt;
+    font-family: "Times New Roman", monospace;
+}
+#nextSong4{
+    position: absolute;
+    top: 51%;
+    left: 23%;
+    height: 300px;
+    width: 500px;
+    background-color: darkslategray;
+    border: solid thick black;
+    color: gold;
+    font-size: 50pt;
+    font-family: "Times New Roman", monospace;
+}
+
+#listen1{
+    position: absolute;
+    top: 45%;
+    left: 25%;
+    font-size: 30pt;
+    font-family: "Times New Roman", monospace;
+    color: red;
+    font-weight: bold;
+}
+
+#listen2{
+    position: absolute;
+    top: 45%;
+    left: 25%;
+    font-size: 30pt;
+    font-family: "Times New Roman", monospace;
+    color: red;
+    font-weight: bold;
+}
+
+#audio1{
+    position: absolute;
+    top: 48%;
+    left: 30%;
+}
+
+#audio2{
+    position: absolute;
+    top: 48%;
+    left: 30%;
+}

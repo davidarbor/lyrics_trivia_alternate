@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>KENDRICK LYRICS TRIVIA</title>
+    <link rel="stylesheet" href="//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <script src="data.js"></script>
+    <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <link rel="stylesheet" href="styles.css"/>
+    <script src="script.js"></script>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+
+<!--
+<label for="input">Search: </label><input id="input" type="search" >
+<button type="button" id="myButton" data-loading-text="Loading..." class="btn btn-primary" autocomplete="off">Submit</button>
+<table id="output" class="table table-hover table-bordered"></table>
+-->
+
+
+<div data-role="page" id="page1">
+    <div data-role="header" id="pageHeader">
+        <h1>KENDRICK LAMAR LYRICS TRIVIA</h1>
+    </div>
+    <div role="main" class="ui-content">
+        <!--
+        <label for="basic">Artist Name:</label>
+        <input type="text" name="name" id="basic" value="">
+        -->
+    </div>
+    <div>
+        <button id="startButton" onclick="gameStart()">Start game</button>
+    </div>
+</div>
+
+
+<div data-role="page" id="page2">
+    <div data-role="header" id="pageHeader2">
+        <h1>KENDRICK LAMAR LYRICS TRIVIA</h1>
+    </div>
+    <div id="guessMessage">Guess the song</div>
+    <!--<ol data-role="listview" id="output"></ol>-->
+    <div id="lyricsOutput"></div>
+    <button id="firstOption" onclick="guessFirst()"></button>
+    <button id="secondOption" onclick="guessSecond()"></button>
+    <button id="thirdOption" onclick="guessThird()"></button>
+    <button id="fourthOption" onclick="guessFourth()"></button>
+</div>
+
+<div data-role="page" id="page3">
+    <div data-role="header" id="pageHeader3">
+        <h1>KENDRICK LAMAR LYRICS TRIVIA</h1>
+    </div>
+    <div id="winMessage">You got it right! Congratulations!</div>
+    <div id="songName1"></div>
+    <div id="listen1">Listen to part of it here!</div>
+    <button id="nextSong3" onclick="backToSecond()">Next song</button>
+    <audio controls="true" src="" id="audio1" type="audio/m4a"></audio>
+</div>
+
+<div data-role="page" id="page4">
+    <div data-role="header" id="pageHeader4">
+        <h1>KENDRICK LAMAR LYRICS TRIVIA</h1>
+    </div>
+    <div id="loseMessage">Sorry, that's not right!</div>
+    <div id="loseMessage2">The correct answer was</div>
+    <div id="songName2"></div>
+    <div id="listen2">Listen to part of it here!</div>
+    <button id="nextSong4" onclick="backToSecond()">Next song</button>
+    <audio controls="true" src="" id="audio2" type="audio/m4a"></audio>
+</div>
+
+</body>
+</html>
