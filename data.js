@@ -108,3 +108,28 @@ var song22={
     snippet:"And I've come a long way from a hundred dollars a month to a hundred mil' in a day",
     songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/a0/eb/c7/a0ebc7cb-50d8-d908-e264-b18711d5648e/mzaf_4040562535368957038.plus.aac.p.m4a"
 };
+var song23={
+    songName:"These Walls",
+    snippet:"You pray for appeals hopin' the warden would afford 'em",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/a8/fc/76/a8fc76df-0c05-f51a-10bf-51e169e78902/mzaf_7516235078098821495.plus.aac.p.m4a"
+};
+var song24={
+    songName:"She Needs Me (Remix)",
+    snippet:"What's up, love? It's been a while",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/9c/23/ad/9c23adae-5b1a-044e-894e-0ebd4278a558/mzaf_4403406125133489251.plus.aac.p.m4a"
+};
+var song25={
+    songName:"untitled 05 | 09.21.2014",
+    snippet:"Justice ain't free, therefore justice ain't me",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music69/v4/14/54/7e/14547e3f-a017-221e-7a35-1b1b4e2554b0/mzaf_7610464500422246115.plus.aac.p.m4a"
+};
+var song26={
+    songName:"Good Kid",
+    snippet:"All I see is strobe lights, blindin' me in my hindsights",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/27/3a/8e/273a8e20-2163-3544-6a90-739a953f74ad/mzaf_3206873088103017985.plus.aac.p.m4a"
+};
+var song27={
+    songName:"Growing Apart (To Get Closer)",
+    snippet:"That place I used to call home is just a bed to me",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/64/c2/44/64c24416-f6b9-32b3-2f2e-cbfdbaa9c518/mzaf_2061777680457531139.plus.aac.p.m4a"
+};
