@@ -133,3 +133,23 @@ var song27={
     snippet:"That place I used to call home is just a bed to me",
     songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/64/c2/44/64c24416-f6b9-32b3-2f2e-cbfdbaa9c518/mzaf_2061777680457531139.plus.aac.p.m4a"
 };
+var song28={
+    songName:"LOYALTY.",
+    snippet:"All I want tonight is just get higher",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/e7/9d/b2/e79db2eb-5a80-d717-9846-1cb84fddc57a/mzaf_8267080176032470657.plus.aac.p.m4a"
+};
+var song29={
+    songName:"untitled 08 | 09.06.2014",
+    snippet:"You plead the 5th, I read the 5th Amendment",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music69/v4/de/c3/1b/dec31b18-2508-f8f1-8db1-6cb4269a6f30/mzaf_6352044255694049256.plus.aac.p.m4a"
+};
+var song30={
+    songName:"Ignorance Is Bliss",
+    snippet:"This the hardest shit you heard from LA this far",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/8f/07/a4/8f07a43b-283a-e790-2652-92e4230cd210/mzaf_6099085464993851319.plus.aac.p.m4a"
+};
+var song31={
+    songName:"",
+    snippet:"",
+    songURL:
+};

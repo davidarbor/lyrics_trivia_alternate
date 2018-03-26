@@ -49,7 +49,7 @@ function resetData(){
     text4=document.getElementById("fourthOption").textContent;
 }
 
-songsArray=[song1, song2, song3, song4, song5, song6, song7, song8, song9, song10, song11, song12, song13, song14, song15, song16, song17, song18, song19, song20, song21, song22, song23, song24, song25, song26, song27];
+songsArray=[song1, song2, song3, song4, song5, song6, song7, song8, song9, song10, song11, song12, song13, song14, song15, song16, song17, song18, song19, song20, song21, song22, song23, song24, song25, song26, song27, song28, song29, song30, song31];
 
 function gameStart(){
     resetData();
@@ -58,7 +58,7 @@ function gameStart(){
         var set=new Set();
         dupes=false;
 
-        for(i=0; i<songNumArray.length; ++i){
+        for(i=0; i<songNumArray.length; i++){
             if (set.has(songNumArray[i])){
                 resetData();
                 dupes=true;
