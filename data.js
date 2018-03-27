@@ -149,6 +149,81 @@ var song30={
     songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/8f/07/a4/8f07a43b-283a-e790-2652-92e4230cd210/mzaf_6099085464993851319.plus.aac.p.m4a"
 };
 var song31={
+    songName:"LUST.",
+    snippet:"Manager called, the lobby called, it's 11:30",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/28/9e/1f/289e1f67-86da-d531-174f-0c60732344e0/mzaf_608342233377052039.plus.aac.p.m4a"
+};
+var song32={
+    songName:"Ronald Reagan Era",
+    snippet:"Let's hit the county buildin', gotta cash my check",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/5b/c2/10/mzm.qdrdxpfc.aac.p.m4a"
+};
+var song33={
+    songName:"Chapter Ten",
+    snippet:"In time you'll learn this is about you",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/2b/26/12/mzm.rwfkmwpw.aac.p.m4a"
+};
+var song34={
+    songName:"Mortal Man",
+    snippet:"Would you judge me a drug-head, or see me as K. Lamar?",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/87/fa/66/87fa66b5-9fe9-6fb3-da6e-ca7f02dec5f3/mzaf_4567131830146051849.plus.aac.p.m4a"
+};
+var song35={
+    songName:"untitled 01 | 08.19.2014",
+    snippet:"Life no longer infinity, this was the final callin'",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music69/v4/23/0f/6a/230f6a7b-ab49-83f8-9254-5ac199073e36/mzaf_6908784553966550719.plus.aac.p.m4a"
+};
+var song36={
+    songName:"YAH.",
+    snippet:"Today is the day I follow my intuitions",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/da/db/34/dadb348e-ae1a-b398-c42d-43fa1c9f7559/mzaf_7924444605652461552.plus.aac.p.m4a"
+};
+var song37={
+    songName:"DNA.",
+    snippet:"I know how you work, I know just who you are",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/50/ab/4a/50ab4a2c-6ec1-2dfe-6bd8-502a0772997d/mzaf_5801811468097873278.plus.aac.p.m4a"
+};
+var song38={
+    songName:"HiiiPoWeR",
+    snippet:"Visions of Martin Luther starin' at me",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/68/65/37/mzm.slqpfzdu.aac.p.m4a"
+};
+var song39={
+    songName:"The Heart Part 4",
+    snippet:"Yellin' 1, 2, 3, 4, 5, I am the greatest rapper alive",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview111/v4/d5/d5/ff/d5d5ff44-135b-c33b-cc07-b078a00e3d7b/mzaf_3593933259888627863.plus.aac.p.m4a"
+};
+var song40={
+    songName:"HUMBLE.",
+    snippet:"My left stroke just went viral",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/36/d8/11/36d81157-1e96-c024-9d5b-b2123e3b0d3a/mzaf_2871762800921706089.plus.aac.p.m4a"
+};
+var song41={
+    songName:"Bitch, Don't Kill My Vibe (Remix)",
+    snippet:"Trinidad James in four weeks, but now my album platinum and shit",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/2c/c9/81/2cc981d8-8087-fec8-7b00-5f0713a210ea/mzaf_5485831532149473385.plus.aac.p.m4a"
+};
+var song42={
+    songName:"Bitch, Don't Kill My Vibe",
+    snippet:"Walk out the door and they scream \"It's alive!\"",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/c1/62/ac/c162ac03-a5bd-3092-9db9-69e704b62a2d/mzaf_243523153360718722.plus.aac.p.m4a"
+};
+var song43={
+    songName:"For Free? (Interlude)",
+    snippet:"Livin' in captivity raised my cap salary",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/f4/f6/cc/f4f6cc89-1361-d3df-6acd-548542065874/mzaf_6335447463156385747.plus.aac.p.m4a"
+};
+var song44={
+    songName:"King Kunta",
+    snippet:"But most of y'all sharin' bars you got the bottom bunk in a two-man cell",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/5f/02/06/5f020649-c65c-778c-b79f-5f510078297c/mzaf_8225124034985989653.plus.aac.p.m4a"
+};
+var song45={
+    songName:"untitled 06 | 06.30.2014.",
+    snippet:"My mama told me that I was different the moment I was invented",
+    songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music49/v4/de/4f/40/de4f403d-7142-d161-e78a-12f790cd8270/mzaf_4433091718589767125.plus.aac.p.m4a"
+};
+var song46={
     songName:"",
     snippet:"",
     songURL:
