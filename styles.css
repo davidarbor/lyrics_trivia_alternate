@@ -108,9 +108,9 @@ h1{
 #firstOption{
     position: absolute;
     top: 35%;
-    left: 25%;
+    left: 20%;
     height: 200px;
-    width: 450px;
+    width: 600px;
     background-color: darkslategray;
     border: solid thick black;
     color: gold;
@@ -120,9 +120,9 @@ h1{
 #secondOption{
     position: absolute;
     top: 50%;
-    left: 25%;
+    left: 20%;
     height: 200px;
-    width: 450px;
+    width: 600px;
     background-color: darkslategray;
     border: solid thick black;
     color: gold;
@@ -132,9 +132,9 @@ h1{
 #thirdOption{
     position: absolute;
     top: 65%;
-    left: 25%;
+    left: 20%;
     height: 200px;
-    width: 450px;
+    width: 600px;
     background-color: darkslategray;
     border: solid thick black;
     color: gold;
@@ -144,9 +144,9 @@ h1{
 #fourthOption{
     position: absolute;
     top: 80%;
-    left: 25%;
+    left: 20%;
     height: 200px;
-    width: 450px;
+    width: 600px;
     background-color: darkslategray;
     border: solid thick black;
     color: gold;
@@ -187,7 +187,7 @@ h1{
 #songName1{
     position: absolute;
     top: 30%;
-    left: 30%;
+    left: 23%;
     font-size: 50pt;
     font-family: "Times New Roman", monospace;
     text-align: center;
@@ -198,7 +198,7 @@ h1{
 #songName2{
     position: absolute;
     top: 30%;
-    left: 30%;
+    left: 23%;
     font-size: 50pt;
     font-family: "Times New Roman", monospace;
     text-align: center;
