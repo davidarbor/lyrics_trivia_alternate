@@ -19,12 +19,6 @@ $(document).ready(function(){
     buttonArray=[button1, button2, button3, button4];
 
     buttonOption=Math.floor(Math.random()*buttonArray.length);
-
-    console.log(songNum);
-    console.log(songNum2);
-    console.log(songNum3);
-    console.log(songNum4);
-    console.log(buttonOption);
 });
 
 function resetData(){
