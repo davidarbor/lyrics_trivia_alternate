@@ -130,7 +130,7 @@ var song26={
 };
 var song27={
     songName:"Growing Apart (To Get Closer)",
-    snippet:"That's what she said to me",
+    snippet:"Where are you goin'? We should be growin' now",
     songURL:"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/64/c2/44/64c24416-f6b9-32b3-2f2e-cbfdbaa9c518/mzaf_2061777680457531139.plus.aac.p.m4a"
 };
 var song28={
